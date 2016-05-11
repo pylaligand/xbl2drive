@@ -1,0 +1,8 @@
+name: xbl2drive
+version: 0.0.1
+description: Syncs Xbox Live clips to Google Drive.
+dependencies:
+  browser: ^0.10.0+2
+  chrome: ^0.8.0
+transformers:
+  - chrome
